@@ -1,0 +1,11 @@
+Subject: Feature Request - UX Enhancement2
+
+Hello Team,
+
+Please prioritize a UI update for the dashboard in the next release.
+Priority: Medium
+Deadline: 3 weeks
+Teams involved: UX Team
+
+Best,
+Engineering Lead

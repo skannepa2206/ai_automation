@@ -1,0 +1,11 @@
+Subject: Feature Request - AI-powered Recommendations
+
+Hello Team,
+
+We need an AI-driven feature in the next release that provides automated product recommendations.
+Priority: High
+Deadline: 2 sprints
+Teams involved: AI & UX teams
+
+Best,
+Product Manager
